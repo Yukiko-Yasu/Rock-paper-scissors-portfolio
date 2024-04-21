@@ -1,1 +1,1 @@
-# Rock-paper-scissors-portfolio
+# Rock-paper-scissors-study
